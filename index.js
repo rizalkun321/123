@@ -1088,7 +1088,6 @@ axios.get(`https://api.vhtear.com/zodiak?query=${teks}&apikey=${apivhtear}`).the
 ║➸ *!nekonime*
 ║➸ *!meme*
 ║➸ *!loli*
-║➸ *!cersex*
 ║➸ *!wibu*
 ║➸ *!wphd*
 ╠════════════════════
